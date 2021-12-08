@@ -9,6 +9,8 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+.clj-kondo
+.lsp
 
 # macOS
 .DS_Store
